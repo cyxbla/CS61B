@@ -1,5 +1,6 @@
-# CS61B
-my study recorder
+# CS61B 
+Data Structures, Spring 2021  
+My study recorder
 
 [lecture code](https://github.com/Berkeley-CS61B/lectureCode-fa20)
 
